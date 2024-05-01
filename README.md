@@ -4,8 +4,8 @@ A Full-Stack developer | MERN Stack
 
 🔭 I’m currently working on a MERN Project<br>🌱 I’m Interested to work on Web 3.0<br>👯 I’m making the world better by PRs<br>💬 Ask me about Technology and Current Affairs<br>📫 How to reach me: gauravkalakoti19@gmail.com<br>⚡ Fun fact: I have 2 years of experience working in salesforce.com environment.
 
+[![](https://visitcount.itsvg.in/api?id=GauravSinghdev&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@codewithkara) 
 
 # 💻 Tech Stack:
@@ -18,10 +18,7 @@ A Full-Stack developer | MERN Stack
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GauravSinghdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=GauravSinghdev&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
