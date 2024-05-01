@@ -1,4 +1,4 @@
-# 💫 About Me:
+# My name is Gaurav Singh
 
 A Full-Stack developer | MERN Stack
 
