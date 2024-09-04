@@ -2,7 +2,7 @@
 
 A Full-Stack developer | MERN Stack
 
-🔭 I’m currently working on MERN Projects<br>🌱 I’m Interested to work on Web 3.0<br>👯 I’m making the world better by PRs<br>💬 Ask me about Technology and Current Affairs<br>📫 How to reach me: gauravkalakoti19@gmail.com<br>⚡ Fun fact: I have 2 years of experience working in salesforce.com environment.
+🔭 I’m currently working on FullStack Projects<br>🌱 I’m Interested to work on Web 3.0<br>👯 I’m making the world better by PRs<br>💬 Ask me about Technology and Current Affairs<br>📫 How to reach me: gauravkalakoti19@gmail.com<br>⚡ Fun fact: I have 2 years of experience working in salesforce.com environment.
 
 [![](https://visitcount.itsvg.in/api?id=GauravSinghdev&icon=0&color=12)](https://visitcount.itsvg.in)
 
