@@ -1,4 +1,4 @@
-# My name is Gaurav Singh
+# 👋 My name is Gaurav Singh aka codewithkara
 
 A Full-Stack developer | MERN Stack
 
